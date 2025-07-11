@@ -1,5 +1,7 @@
 # Documentation and API Validation Action
 
+[![Documentation and API Validation](https://github.com/OD-Oraf/linter-gitaction/actions/workflows/markdown-lint.yml/badge.svg?branch=main)](https://github.com/OD-Oraf/linter-gitaction/actions/workflows/markdown-lint.yml)
+
 A comprehensive GitHub Action that validates documentation, API specifications, and data structures using industry-standard tools. Provides detailed reporting and error analysis for maintaining high-quality project documentation and APIs.
 
 ## Features
